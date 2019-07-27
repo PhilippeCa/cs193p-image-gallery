@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		37C5867022ECBD4F00D48D3B /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 37C5866F22ECBD4F00D48D3B /* Readme.md */; };
 		37D0D44222C7B98B00284E46 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37D0D44122C7B98A00284E46 /* AppDelegate.swift */; };
 		37D0D44722C7B98B00284E46 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37D0D44522C7B98B00284E46 /* Main.storyboard */; };
 		37D0D44922C7B98C00284E46 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37D0D44822C7B98C00284E46 /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		37C5866F22ECBD4F00D48D3B /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 		37D0D43E22C7B98A00284E46 /* ImageGallery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImageGallery.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		37D0D44122C7B98A00284E46 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		37D0D44622C7B98B00284E46 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -48,6 +50,7 @@
 		37D0D43522C7B98A00284E46 = {
 			isa = PBXGroup;
 			children = (
+				37C5866F22ECBD4F00D48D3B /* Readme.md */,
 				37D0D44022C7B98A00284E46 /* ImageGallery */,
 				37D0D43F22C7B98A00284E46 /* Products */,
 			);
@@ -155,6 +158,7 @@
 			files = (
 				37D0D44C22C7B98C00284E46 /* LaunchScreen.storyboard in Resources */,
 				37D0D44922C7B98C00284E46 /* Assets.xcassets in Resources */,
+				37C5867022ECBD4F00D48D3B /* Readme.md in Resources */,
 				37D0D44722C7B98B00284E46 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
